@@ -24,4 +24,4 @@ for i in range(len(X_test)):
 accuracy=model.score(X_test,y_test)
 print("Accuracy Score: ",accuracy)
 
-print("hello")
+
